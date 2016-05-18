@@ -1,6 +1,6 @@
 ###Bootstrapping Puppet onto AWS Windows Instances using Powershell
 
-```
+```JSON
 resource "aws_instance" "win-pup" {
     ami                         = "<WINDOWS AMI>"
     instance_type               = "<AWS INSTANCE TYPE>"
