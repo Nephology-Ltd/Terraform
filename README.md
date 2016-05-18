@@ -1,6 +1,6 @@
 # Terraform
 
-Terraform is an opensource tool from Hashicorop for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions. See the Terraform website for more details:
+Terraform is an opensource tool from Hashicorp for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions. See the Terraform website for more details:
 
 Website: http://www.terraform.io
 
