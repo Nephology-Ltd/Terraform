@@ -1,4 +1,4 @@
-##Bootstrapping Puppet onto AWS Windows Instances
+###Bootstrapping Puppet onto AWS Windows Instances using Powershell
 
 ```
 resource "aws_instance" "win-pup" {
