@@ -1,4 +1,4 @@
-Bootstrapping Puppet onto AWS and Azure Windows Instances
+##Bootstrapping Puppet onto AWS and Azure Windows Instances
 
 ```
 resource "aws_instance" "win-pup" {
