@@ -1,5 +1,6 @@
 Bootstrapping Puppet onto AWS and Azure Windows Instances
 
+'''
 resource "aws_instance" "win-pup" {
     ami                         = "<WINDOWS AMI>"
     instance_type               = "<AWS INSTANCE TYPE>"
@@ -18,3 +19,4 @@ resource "aws_instance" "win-pup" {
         Name = "Windows-Puppet"
     }
 }
+'''
