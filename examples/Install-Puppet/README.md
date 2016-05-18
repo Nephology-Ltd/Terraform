@@ -23,15 +23,15 @@ resource "aws_instance" "win-pup" {
 
 There are a few MSI parameters you can pass in the argumanets list, these are
 
-INSTALLDIR
-PUPPET_MASTER_SERVER
-PUPPET_CA_SERVER
-PUPPET_AGENT_CERTNAME
-PUPPET_AGENT_ENVIRONMENT
-PUPPET_AGENT_STARTUP_MODE
-PUPPET_AGENT_ACCOUNT_USER
-PUPPET_AGENT_ACCOUNT_PASSWORD
-PUPPET_AGENT_ACCOUNT_DOMAIN
+*INSTALLDIR
+*PUPPET_MASTER_SERVER
+*PUPPET_CA_SERVER
+*PUPPET_AGENT_CERTNAME
+*PUPPET_AGENT_ENVIRONMENT
+*PUPPET_AGENT_STARTUP_MODE
+*PUPPET_AGENT_ACCOUNT_USER
+*PUPPET_AGENT_ACCOUNT_PASSWORD
+*PUPPET_AGENT_ACCOUNT_DOMAIN
 
 
 Please see the [Puppet documentation](https://docs.puppet.com/puppet/latest/reference/install_windows.html#msi-properties) for more information on these.
