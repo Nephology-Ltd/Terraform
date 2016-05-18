@@ -33,5 +33,6 @@ PUPPET_AGENT_ACCOUNT_USER
 PUPPET_AGENT_ACCOUNT_PASSWORD
 PUPPET_AGENT_ACCOUNT_DOMAIN
 
+
 Please see the [Puppet documentation](https://docs.puppet.com/puppet/latest/reference/install_windows.html#msi-properties) for more information on these.
 
