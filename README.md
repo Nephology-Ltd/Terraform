@@ -1,7 +1,5 @@
 # Terraform
 
-###This repository was made to show examples of using Terraform against Azure and AWS.
-
 Terraform is an opensource tool from Hashicorp for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions. See the Terraform website for more details:
 
 Website: http://www.terraform.io
@@ -18,3 +16,4 @@ The key features of Terraform are:
 
 For more information, see the [introduction section](http://www.terraform.io/intro) of the Terraform website.
 
+####This repository has been made to show examples of using Terraform against Azure and AWS.
