@@ -42,6 +42,6 @@ There are a few MSI parameters you can pass in the argumanets list, these are
 
 Please see the [Puppet documentation](https://docs.puppet.com/puppet/latest/reference/install_windows.html#msi-properties) for more information on these.
 
-### Note
+#### Note
 
 You may want to cahnge the region, if so then ensure you change the AMI as well as these can differ between regions.
