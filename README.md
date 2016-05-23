@@ -16,4 +16,4 @@ The key features of Terraform are:
 
 For more information, see the [introduction section](http://www.terraform.io/intro) of the Terraform website.
 
-####This repository has been made to show examples of using Terraform against Azure and AWS.
+####This repository has been created to show examples of using Terraform against Azure and AWS, mainly on Windows platforms.
