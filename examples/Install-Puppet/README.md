@@ -44,4 +44,4 @@ Please see the [Puppet documentation](https://docs.puppet.com/puppet/latest/refe
 
 #### Note
 
-You may want to cahnge the region, if so then ensure you change the AMI as well as these can differ between regions.
+You may want to change the region, if so then ensure you change the AMI as well as these can differ between regions.
